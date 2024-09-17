@@ -46,7 +46,7 @@ Check out the live platform: [Code Soldiers](http://13.51.168.80:8000)
 
 ## Contact
 
-For questions or feedback, contact me at: shasankreddy4563@gmail.com.
+For questions or feedback, contact me at: mdeneswarreddy@gmail.com.
 
 ---
 
